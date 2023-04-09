@@ -1,7 +1,5 @@
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=39D353&height=300&section=header&text=KimChanHee&fontSize=90&animation=fadeIn&fontColor=39D353&fontAlignY=38&desc=Decorate&descAlignY=51&descAlign=62) -->
-
-![Group 243](https://user-images.githubusercontent.com/94586184/230785698-dda037ba-9583-4f8c-bdf7-39c84e18e815.png)
+![image](https://user-images.githubusercontent.com/94586184/230788988-b090ada6-fd37-4394-ad2f-be1656f4a451.png)
 
 # main skill
 <img src="https://user-images.githubusercontent.com/94586184/230787271-456fdc61-f053-46ad-85d4-12fe1608309e.png" width="430" height="96.84"/>
