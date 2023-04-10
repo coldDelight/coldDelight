@@ -12,5 +12,3 @@
 
  <a href="https://cold-delight.tistory.com/"><img src="https://user-images.githubusercontent.com/94586184/230788217-66a3e853-7f49-49f6-8c03-eb68d8e7e424.png" width="92" height="92"/></a> &nbsp; &nbsp;<a href="mailto:slingan34@gmail.com/"><img src="https://user-images.githubusercontent.com/94586184/230788393-a6671b97-eea3-4140-843b-9a3c6bd225e7.png" width="92" height="92"/></a>
  
- 
- 
